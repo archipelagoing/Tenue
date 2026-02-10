@@ -1,11 +1,11 @@
-# Sillage
+# Tenue: 
 ## Verified Fragrance Identity Network
 
-Sillage is a digital identity network where fragrance ownership becomes verifiable, social, and expressive.
+Tenue is a digital identity network where fragrance ownership becomes verifiable, social, and expressive.
 
 It allows users to scan their perfume bottles, verify ownership, join scent-based communities ("villages"), and discover others through shared fragrance identity.
 
-Sillage transforms fragrance from a private sensory experience into a visible, structured identity layer.
+Tenue transforms fragrance from a private sensory experience into a visible, structured identity layer.
 
 ---
 
@@ -23,7 +23,7 @@ However, fragrance identity currently exists in isolation. There is no system th
 - Form communities based on shared fragrance ownership
 - Navigate fragrance culture as a connected network
 
-Sillage solves this by creating the first verified fragrance identity network.
+tenue solves this by creating the first verified fragrance identity network.
 
 ---
 
@@ -31,7 +31,7 @@ Sillage solves this by creating the first verified fragrance identity network.
 
 ## Step 1: User Creates a Profile
 
-The user creates a Sillage profile.
+The user creates a tenue profile.
 
 This profile represents their fragrance identity.
 
@@ -41,7 +41,7 @@ This profile represents their fragrance identity.
 
 Each participating fragrance includes a unique QR code.
 
-The user scans this QR code using the Sillage app.
+The user scans this QR code using the tenue app.
 
 This scan:
 
@@ -114,7 +114,7 @@ The system analyzes anonymized fragrance ownership data across users.
 
 This allows the system to learn relationships between fragrances and identity clusters.
 
-Using this data, Sillage can recommend:
+Using this data, tenue can recommend:
 
 - New fragrances aligned with identity
 - New villages to explore
@@ -183,7 +183,7 @@ This signature represents their scent identity.
 
 ## Identity Graph
 
-Sillage builds a graph connecting:
+tenue builds a graph connecting:
 
 User → Fragrance → Village → Other Users
 
@@ -195,7 +195,7 @@ This creates a navigable identity network.
 
 Luxury fragrance is currently limited to physical ownership and private experience.
 
-Sillage transforms fragrance into:
+tenue transforms fragrance into:
 
 - A verifiable identity signal
 - A social connector
@@ -222,9 +222,9 @@ This establishes the fragrance identity network.
 
 # Vision
 
-Sillage aims to become the identity layer for fragrance.
+tenue aims to become the identity layer for fragrance.
 
-Just as LinkedIn maps professional identity and Spotify maps music identity, Sillage maps scent identity.
+Just as LinkedIn maps professional identity and Spotify maps music identity, tenue maps scent identity.
 
 Fragrance becomes:
 
@@ -233,7 +233,7 @@ Fragrance becomes:
 - Navigable
 - Expressive
 
-Sillage transforms fragrance from an object into an identity network.
+tenue transforms fragrance from an object into an identity network.
 
 ---
 
@@ -264,7 +264,7 @@ Data layer: Fragrance and identity graph database
 
 # Summary
 
-Sillage is the first verified fragrance identity network.
+tenue is the first verified fragrance identity network.
 
 It allows users to prove fragrance ownership, express scent identity, form communities, and navigate fragrance culture as a connected system.
 
