@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+node_modules/
+.next/
+.turbo/
+out/
+dist/
+.env.local
+*.local.env
+*.log
+yarn-error.log
+pnpm-debug.log*
+.cache/
+coverage/
